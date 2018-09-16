@@ -96,6 +96,10 @@ a {
   padding: 0 3rem;
 }
 
+.font{
+  color: #252529;
+}
+
 nav {
   height: 40px;
   width: 100%;
